@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhsKevin ，Call me Kevin
 - 👀 Interested in Exercising/Reading/Drinking
-- 🌱 I am a Java developer
+- 🌱 I am a Java developer in SH.
 - 💞️ I have a job now but still want to looking for a job
 - 📫 E-mail:zhss1004@163.com  or  shuai991004@gmail.com
 
