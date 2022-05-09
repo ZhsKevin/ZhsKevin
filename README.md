@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ZhsKevin ，Call me Kevin
-- 👀 Interested in Exercising/Reading/Drinking
-- 🌱 I am a Java developer in SH.
-- 💞️ I have a job now but still want to looking for a job
-- 📫 E-mail:zhss1004@163.com  or  shuai991004@gmail.com
+-  a Java developer in SH.
+-  having a job now but still want a better job
+- 📫 E-mail:zhss1004@163.com
 
 <!---
 ZhsKevin/ZhsKevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
